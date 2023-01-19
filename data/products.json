@@ -1,0 +1,182 @@
+[
+  {
+    "sku": "P001",
+    "name": "Product 1",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644461728/Gift/ezvypcafqnbkpceqdvkd.jpg",
+    "price": 100,
+    "description": "This is the first product in the list.",
+    "dimension": "10x10x10 cm",
+    "weight": "1 kg"
+  },
+  {
+    "sku": "P002",
+    "name": "Product 2",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644555756/Gift/tmjuneunbjpjloqdgcfn.png",
+    "price": 200,
+    "description": "This is the second product in the list.",
+    "dimension": "20x20x20 cm",
+    "weight": "2 kg"
+  },
+  {
+    "sku": "P003",
+    "name": "Product 3",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644567656/Gift/n1dzi1vlf11f3elmzsod.jpg",
+    "price": 300,
+    "description": "This is the third product in the list.",
+    "dimension": "30x30x30 cm",
+    "weight": "3 kg"
+  },
+  {
+    "sku": "P004",
+    "name": "Product 4",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644461728/Gift/ezvypcafqnbkpceqdvkd.jpg",
+    "price": 400,
+    "description": "This is the fourth product in the list.",
+    "dimension": "40x40x40 cm",
+    "weight": "4 kg"
+  },
+  {
+    "sku": "P005",
+    "name": "Product 5",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644555756/Gift/tmjuneunbjpjloqdgcfn.png",
+    "price": 500,
+    "description": "This is the fifth product in the list.",
+    "dimension": "50x50x50 cm",
+    "weight": "5 kg"
+  },
+  {
+    "sku": "P006",
+    "name": "Product 6",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644602621/Gift/cg9abws9epyg9w1bwxus.png",
+    "price": 600,
+    "description": "This is the sixth product in the list.",
+    "dimension": "60x60x60 cm",
+    "weight": "6 kg"
+  },
+  {
+    "sku": "P007",
+    "name": "Product 7",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644831881/Gift/zknxwbnheuv7qcxdocwm.jpg",
+    "price": 700,
+    "description": "This is the seventh product in the list.",
+    "dimension": "70x70x70 cm",
+    "weight": "7 kg"
+  },
+  {
+    "sku": "P008",
+    "name": "Product 8",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644461728/Gift/ezvypcafqnbkpceqdvkd.jpg",
+    "price": 800,
+    "description": "This is the eighth product in the list.",
+    "dimension": "80x80x80 cm",
+    "weight": "8 kg"
+  },
+  {
+    "sku": "P009",
+    "name": "Product 9",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644831881/Gift/zknxwbnheuv7qcxdocwm.jpg",
+    "price": 900,
+    "description": "This is the ninth product in the list.",
+    "dimension": "90x90x90 cm",
+    "weight": "9 kg"
+  },
+  {
+    "sku": "P010",
+    "name": "Product 10",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644602621/Gift/cg9abws9epyg9w1bwxus.png",
+    "price": 1000,
+    "description": "This is the tenth product in the list.",
+    "dimension": "100x100x100 cm",
+    "weight": "10 kg"
+  },
+  {
+    "sku": "P011",
+    "name": "Product 11",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644555756/Gift/tmjuneunbjpjloqdgcfn.png",
+    "price": 1100,
+    "description": "This is the eleventh product in the list.",
+    "dimension": "110x110x110 cm",
+    "weight": "11 kg"
+  },
+  {
+    "sku": "P012",
+    "name": "Product 12",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644567656/Gift/n1dzi1vlf11f3elmzsod.jpg",
+    "price": 1200,
+    "description": "This is the twelfth product in the list.",
+    "dimension": "120x120x120 cm",
+    "weight": "12 kg"
+  },
+  {
+    "sku": "P013",
+    "name": "Product 13",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644602621/Gift/cg9abws9epyg9w1bwxus.png",
+    "price": 1300,
+    "description": "This is the thirteenth product in the list.",
+    "dimension": "130x130x130 cm",
+    "weight": "13 kg"
+  },
+  {
+    "sku": "P014",
+    "name": "Product 14",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644461728/Gift/ezvypcafqnbkpceqdvkd.jpg",
+    "price": 1400,
+    "description": "This is the fourteenth product in the list.",
+    "dimension": "140x140x140 cm",
+    "weight": "14 kg"
+  },
+  {
+    "sku": "P015",
+    "name": "Product 15",
+    "image": "https://picsum.photos/200",
+    "price": 1500,
+    "description": "This is the fifteenth product in the list.",
+    "dimension": "150x150x150 cm",
+    "weight": "15 kg"
+  },
+  {
+    "sku": "P016",
+    "name": "Product 16",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644602621/Gift/cg9abws9epyg9w1bwxus.png",
+    "price": 1600,
+    "description": "This is the sixteenth product in the list.",
+    "dimension": "160x160x160 cm",
+    "weight": "16 kg"
+  },
+  {
+    "sku": "P017",
+    "name": "Product 17",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644461728/Gift/ezvypcafqnbkpceqdvkd.jpg",
+    "price": 1700,
+    "description": "This is the seventeenth product in the list.",
+    "dimension": "170x170x170 cm",
+    "weight": "17 kg"
+  },
+  {
+    "sku": "P018",
+    "name": "Product 18",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644831881/Gift/zknxwbnheuv7qcxdocwm.jpg",
+    "price": 1800,
+    "description": "This is the eighteenth product in the list.",
+    "dimension": "180x180x180 cm",
+    "weight": "18 kg"
+  },
+  {
+    "sku": "P019",
+    "name": "Product 19",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644602621/Gift/cg9abws9epyg9w1bwxus.png",
+    "price": 1900,
+    "description": "This is the nineteenth product in the list.",
+    "dimension": "190x190x190 cm",
+    "weight": "19 kg"
+  },
+  {
+    "sku": "P020",
+    "name": "Product 20",
+    "image": "https://res.cloudinary.com/dbtlgaii3/image/upload/v1644567656/Gift/n1dzi1vlf11f3elmzsod.jpg",
+    "price": 2000,
+    "description": "This is the twentieth product in the list.",
+    "dimension": "200x200x200 cm",
+    "weight": "20 kg"
+  }
+]
